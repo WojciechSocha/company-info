@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Company Info Plugin v1.0.0\n"
+"POT-Creation-Date: 2012-12-01 21:17+0100\n"
+"PO-Revision-Date: 2012-12-01 21:18+0100\n"
+"Last-Translator: Pracownie Inżynierskie Socha <admin@socha-pi.pl>\n"
+"Language-Team: Pracownie Inżynierskie Socha <admin@socha-pi.pl>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../company_info.php:33 ../company_info.php:131
+msgid "Company Info"
+msgstr "Informacje o firmie"
+
+#: ../company_info.php:116
+msgid "Please enter valid e-mail #1."
+msgstr "Proszę wpisać poprawny adres e-mail 1."
+
+#: ../company_info.php:119
+msgid "Please enter valid e-mail #2."
+msgstr "Proszę wpisać poprawny adres e-mail 2."
+
+#: ../company_info.php:122
+msgid "Options saved."
+msgstr "Opcje zapisane."
+
+#: ../company_info.php:138
+msgid "Basic information"
+msgstr "Informacje podstawowe"
+
+#: ../company_info.php:140
+msgid "Full name of company #1:"
+msgstr "Pełna nazwa firmy nr 1"
+
+#: ../company_info.php:146
+msgid "Suffix of company #1:"
+msgstr "Dopisek firmy nr 1"
+
+#: ../company_info.php:152
+msgid "Tax ID of company #1:"
+msgstr "NIP firmy nr 1"
+
+#: ../company_info.php:158
+msgid "Registration ID of company #1:"
+msgstr "REGON firmy nr 1"
+
+#: ../company_info.php:164
+msgid "Full name of company #2:"
+msgstr "Pełna nazwa firmy nr 2"
+
+#: ../company_info.php:170
+msgid "Suffix of company #2:"
+msgstr "Dopisek firmy nr 2"
+
+#: ../company_info.php:176
+msgid "Tax ID of company #2:"
+msgstr "NIP firmy nr 2"
+
+#: ../company_info.php:182
+msgid "Registration ID of company #2:"
+msgstr "REGON firmy nr 2"
+
+#: ../company_info.php:187
+msgid "Address information"
+msgstr "Informacje adresowe"
+
+#: ../company_info.php:189
+msgid "Street address:"
+msgstr "Adres:"
+
+#: ../company_info.php:195
+msgid "Post code:"
+msgstr "Kod pocztowy:"
+
+#: ../company_info.php:201
+msgid "City:"
+msgstr "Miasto:"
+
+#: ../company_info.php:207
+msgid "Geographical latitude:"
+msgstr "Szerokość geograficzna:"
+
+#: ../company_info.php:213
+msgid "Geographical longitude:"
+msgstr "Długość geograficzna:"
+
+#: ../company_info.php:218
+msgid "Contact information"
+msgstr "Informacje kontaktowe"
+
+#: ../company_info.php:220
+msgid "Phone #1:"
+msgstr "Nr telefonu 1:"
+
+#: ../company_info.php:226
+msgid "Phone #2:"
+msgstr "Nr telefonu 2:"
+
+#: ../company_info.php:232
+msgid "Phone #3:"
+msgstr "Nr telefonu 3:"
+
+#: ../company_info.php:238
+msgid "Fax #1:"
+msgstr "Nr faksu 1:"
+
+#: ../company_info.php:244
+msgid "Fax #2:"
+msgstr "Nr faksu 2:"
+
+#: ../company_info.php:250
+msgid "E-mail #1:"
+msgstr "Adres e-mail 1:"
+
+#: ../company_info.php:256
+msgid "E-mail #2:"
+msgstr "Adres e-mail 2:"
+
+#: ../company_info.php:290 ../company_info.php:304
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ../company_info.php:305
+msgid "Support"
+msgstr "Wsparcie"
+
+#: ../company_info.php:359
+msgid "Address"
+msgstr "Adres"
+
+#: ../company_info.php:380
+msgid "Phones"
+msgstr "Telefony"
+
+#: ../company_info.php:402
+msgid "Fax"
+msgstr "Faks"
+
+#: ../company_info.php:421
+msgid "E-mail"
+msgstr "Adres e-mail"
+
+#: ../company_info.php:437
+msgid "Geographical"
+msgstr "Dane geograficzne"
+
+#: ../company_info.php:439
+msgid "Latitude"
+msgstr "Szerokość"
+
+#: ../company_info.php:441
+msgid "Longitude"
+msgstr "Długość"
+
+#~ msgid "Save Changes"
+#~ msgstr "Zapisz zmiany"
+
+#, fuzzy
+#~ msgid "Wp-mail"
+#~ msgstr "Adres e-mail."
+
+#, fuzzy
+#~ msgid "Email"
+#~ msgstr "Adres e-mail."
